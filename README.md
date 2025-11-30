@@ -1,16 +1,12 @@
-## Hi there 👋
+## Betzy Hernandez Sandoval
 
-<!--
-**BEHS/BEHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=FMJTlK0AAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Betzy-Hernandez-Sandoval)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9669--3504-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9669-3504)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BEHS-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betzy-e-hernandez/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/EOBetzy?style=social)](https://twitter.com/EOBetzy)
+[![GitHub Badge](https://img.shields.io/badge/-@BEHS-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/BEHS)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BEHS.BEHS)
+[![Update](https://img.shields.io/github/last-commit/BEHS/BEHS?label=profile%20updated&style=flat-square)](https://github.com/BEHS)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Research Scientist with the Earth System Science Center of the University of Alabama in Huntsville (UAH), supporting the EarthRISE program led out of NASA’s Marshall Space Flight Center. Previously, I served as the Regional Science Coordination Lead for Central America for NASA’s longstanding SERVIR program. I previously served as a Research Scientist with the Water Center for the Humid Tropics of Latin America and the Caribbean (CATHALAC). At CATHALAC, I worked on a number of projects, including the NASA-supported SERVIR-Mesoamerica program and the European Commission-funded PREVDA project, where I applied my remote sensing expertise in developing an updated map of Central America’s land cover. In 2008, I served as National GIS Coordinator for Guatemala’s National Protected Areas Council (CONAP), where I was responsible for a range of activities, from spatial analysis to modeling scenarios for projects in protected areas. My educational background includes a Bachelor of Science degree in agronomic engineering from the University of San Carlos in Guatemala, and a master’s degree in environmental management & auditing with a focus in renewable energy jointly from the University of San Pablo in Guatemala and UNINI in Puerto Rico. I am currently pursuing a Ph.D. in Earth observation from the University of Twente in the Netherlands. My research interests include land cover assessment, spatial hydrology, and the use of Earth observation data for risk management.
